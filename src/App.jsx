@@ -50,7 +50,7 @@ function App() {
         placeholder="Password"
       />
 
-      <button>Submit</button>
+      <button style={{ backgroundColor: "#fff", color: "#000" }}>Submit</button>
 
       <p>{greet}</p>
     </form>
